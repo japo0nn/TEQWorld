@@ -1,0 +1,9 @@
+global using Application.Common.Interfaces;
+global using Application.Common.Interfaces.Context;
+global using Application.Common.Interfaces.Repositories;
+global using Application.Common.Models;
+global using Domain.Entities;
+global using Infrastructure.Context;
+global using Infrastructure.Repositories;
+global using Infrastructure.Services;
+global using Microsoft.EntityFrameworkCore;
